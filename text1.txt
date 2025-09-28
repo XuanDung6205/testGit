@@ -3,3 +3,6 @@ branch1
 
 
 ##
+nhánh: branch2
+
+nếu master có dòng này thì đã bị ghi đè bởi branch2
