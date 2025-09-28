@@ -1,4 +1,4 @@
-lần 1
+lần 10
 nhánh: branch2
 
-nếu master có dòng này thì đã bị ghi đè bởi branch2
+chuyển về branch2
